@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Starting my blog"
-date: 2022-07-18
+title: Welcome to my site!
 ---
 
-Okay, this is just a test post as I start building my blog. This is my *first time* using Jekyll, so I may stumble here and there. I'm using Markdown to format my text, but, again, I'm also *not familiar* with it. This is going to be an interesting experience.
+Hi there, welcome to my site! This is my first time using Jekyll to build a website, so there may be mistakes/missing content here and there. Hopefully you find my content helpful!

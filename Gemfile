@@ -14,6 +14,7 @@ gem "minimal-mistakes-jekyll"
 
 gem "kramdown-parser-gfm"
 
+
 group :jekyll_plugins do
   gem "jekyll-data"
   gem "jekyll-feed"
@@ -21,4 +22,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-include-cache"
+  gem "github-pages"
 end

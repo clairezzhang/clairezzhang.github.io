@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Zhang"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # "just beginning."
-name                     : "CZ"
+name                     : "Claire Zhang"
 description              : "The personal portfolio of a beginner coder."
 url                      : "https://clairezzhang.github.io"
 baseurl                  : "/coding"
